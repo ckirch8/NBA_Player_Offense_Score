@@ -534,7 +534,7 @@ plt.show()
 ```
 
 
-![](/assets/output_10_0.png)
+![](output_10_0.png)
 
 
 If the player's NPTwAO/G is equal to the league average, the weight comes out to 0.90, which is the dotted vertical line. High above the average and the score will barely change as the weight get closer to 1, way below and it is affected significantly.
