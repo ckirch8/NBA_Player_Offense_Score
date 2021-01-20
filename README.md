@@ -3,6 +3,8 @@
 
 The goal of this article is to create a new metric to judge a single player's offensive production. I know there is a ton out there already ([PER], [OWS], [OBPM], etc.) but I wanted to try my hand at creating one and possibly find ways improve upon them. My metric will mostly be based on total production and how efficient that player was at achieving that production.
 
+Fulle article [here]. 
+
 
 ### Results
 
@@ -341,4 +343,4 @@ df[['PLAYER_NAME', 'TEAM_ABBREVIATION', 'NPTwAO/G', 'PGen/G', 'IOEwAO', 'Eff_Fac
 [Python Script]: https://github.com/ckirch8/NBA_Player_Offense_Score/blob/main/off_eff_scrape.py
 [github]: https://github.com/ckirch8/NBA_Player_Offense_Score/blob/main/offensive_efficiency_19_20.csv
 [nba_api]: https://github.com/swar/nba_api
-[here]: https://www.basketball-reference.com/about/per.html
+[here]: https://ckirch8.github.io/2021/01/12/Total-Offense-Score.html
